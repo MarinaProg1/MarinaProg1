@@ -11,13 +11,13 @@
 
 ## 🚀 About Me  
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-- :credit_card: My full name is **Marina Natalia López** <br>
-- :school: I'm currently 3rd year student at **Universidad tecnológica Nacional**<br>
-- :books: My major is **Tecnicatura Universitaria en programación**<br>
-- :earth_asia: I'm living now in **Goya, Corrientes**<br>
+- :credit_card: My full name is Marina Natalia López <br>
+- :school: I'm currently 3rd year student at Universidad tecnológica Nacional<br>
+- :books: My major is Tecnicatura Universitaria en programación<br>
+- :earth_asia: I'm living now in Goya, Corrientes<br>
 - :sweat_smile: I'm a newbie in coding, know C# and PHP language. Now I'm focus on learning Web Development, whit html, css y Javascrip.<br>
 - :monocle_face:I’m interested in programming, spending time with my family, going out, and then programming again, programming and programming.<br>
-- :sunglasses: My quote is ***""The peak is not reached by outdoing others, but by outdoing yourself every single day.""*** <br><br>
+- :sunglasses: My quote is "The peak is not reached by outdoing others, but by outdoing yourself every single day." <br><br>
 
 
 ## 🔧 Technologies Stack 🔧
