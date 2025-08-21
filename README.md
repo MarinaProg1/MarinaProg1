@@ -1,5 +1,8 @@
 ## Hi there 👋, I'm Marina López!
-<img src="https://github.com/MarinaProg1/MarinaProg1/blob/main/miImagen.png" alt="Mi Imagen" width="400"/>
+<p align="center">
+  <img src="https://github.com/MarinaProg1/MarinaProg1/raw/main/miImagen.png" alt="Mi Imagen" width="400"/>
+</p>
+
 
 
 <div align="center">
@@ -9,7 +12,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Marina Natalia López** <img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250"/>
+- :credit_card: My full name is **Marina Natalia López** 
 - :school: I'm currently 3rd year student at **Universidad tecnológica Nacional**
 - :books: My major is **Tecnicatura Universitaria en programación**
 - :earth_asia: I'm living now in **Goya, Corrientes**
