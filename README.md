@@ -10,7 +10,7 @@
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+## 🚀 About Me  
 
 - :credit_card: My full name is **Marina Natalia López** 
 - :school: I'm currently 3rd year student at **Universidad tecnológica Nacional**
@@ -19,7 +19,7 @@
 - :sweat_smile: I'm a newbie in coding, know C# and PHP language. Now I'm focus on learning Web Development, whit html, css y Javascrip.
 - :monocle_face:I’m interested in programming, spending time with my family, going out, and then programming again, programming and programming.
 - :sunglasses: My quote is ***""The peak is not reached by outdoing others, but by outdoing yourself every single day.""*** 
-
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 ## 🔧 Technologies Stack 🔧
 
