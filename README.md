@@ -1,4 +1,4 @@
-<p>
+<p class="center">
   <img src="https://github.com/MarinaProg1/MarinaProg1/raw/main/miImagen.png" alt="Mi Imagen" width="400"/>
 </p>
 
