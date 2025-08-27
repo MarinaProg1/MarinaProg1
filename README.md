@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-csharp-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-csharp-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet)<br>
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)
