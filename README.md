@@ -15,7 +15,7 @@
 - :school: I'm currently 3rd year student at Universidad tecnológica Nacional<br>
 - :books: My major is Tecnicatura Universitaria en programación<br>
 - :earth_asia: I'm living now in Goya, Corrientes<br>
-- :sweat_smile: I'm a newbie in coding, know C# and PHP language. Now I'm focused on learning Web Development, wiht html, css y JavaScrip.<br>
+- :sweat_smile:I'm an advanced programming student with solid knowledge of C# and PHP. Currently, I'm focused on improving my skills in Web Development with HTML, CSS, and JavaScript.<br>
 - :monocle_face:I’m interested in programming, spending time with my family, going out, and then programming again, programming and programming.<br>
 - :sunglasses: My quote is "The peak is not reached by outdoing others, but by outdoing yourself every single day." <br><br>
 
