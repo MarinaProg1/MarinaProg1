@@ -10,7 +10,7 @@
 
 
 ## 🚀 About Me  
-<img align="right" width=200px height=250px alt="imagenPersoanl" src="https://github.com/MarinaProg1/MarinaProg1/raw/main/miDibujo3.png" style="border-radius:50%;"/>
+<img align="right" width=200px height=250px alt="imagenPersoanl" src="https://github.com/MarinaProg1/MarinaProg1/raw/main/LOGO.svg" style="border-radius:50%;"/>
 - :credit_card: My full name is Marina Natalia López <br>
 - :school: I'm currently 3rd year student at Universidad tecnológica Nacional<br>
 - :books: My major is Tecnicatura Universitaria en programación<br>
