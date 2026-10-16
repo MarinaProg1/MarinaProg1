@@ -15,7 +15,7 @@
 - :school: I'm currently 3rd year student at Universidad tecnológica Nacional<br>
 - :books: My major is Tecnicatura Universitaria en programación<br>
 - :earth_asia: I'm living now in Goya, Corrientes<br>
-- :sweat_smile:I'm an advanced programming student with solid knowledge of C# and PHP. Currently, I'm focused on improving my skills in Web Development with HTML, CSS, and JavaScript.<br>
+- :sweat_smile:I'm an advanced programming student with solid knowledge of C# and Node.js. Currently, I'm focused on improving my skills in Web Development with HTML, CSS, Tscript and JavaScript.<br>
 - :monocle_face:I’m interested in programming, spending time with my family, going out, and then programming again, programming and programming.<br>
 - :sunglasses: My quote is "The peak is not reached by outdoing others, but by outdoing yourself every single day." <br><br>
 
@@ -24,7 +24,6 @@
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-csharp-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet)<br>
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
